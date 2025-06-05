@@ -34,7 +34,7 @@ export default function Footer3() {
                     <img
                       className="d-none dark:d-block"
                       alt=""
-                      src="/assets/images/common/logo-dark.png"
+                      src="/assets/images/common/logo-light.png"
                       width="117"
                       height="40"
                     />

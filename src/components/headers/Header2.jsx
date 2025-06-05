@@ -66,7 +66,7 @@ export default function Header2() {
                     <img
                       className="d-none dark:d-block"
                       alt="엠파시"
-                      src="/assets/images/common/logo-dark.png"
+                      src="/assets/images/common/logo-light.png"
                       width="117"
                       height="40"
                     />
